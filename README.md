@@ -1,3 +1,5 @@
+PROBLEM STATEMENT:-
+
 SPECIFICATION-BASED TESTING 
 
 Suppose a software component (called a Grader component) has been implemented to 
@@ -18,9 +20,9 @@ Exam-2
 Project Assumptions: 
 1. Assume Exam-1, Exam-2, Project are integers. 
 2. The ranges for the exam scores are: 
-3. 0  Exam-1  90 
-4. 0  Exam-2  100 
-5. 0  Project  80 
+3. 0 <= Exam-1 <= 90 
+4. 0 <= Exam-2 <= 100 
+5. 0 <= Project <= 80 
 6. The maximum size of the “First name” is 15 characters and “Last name” is 20 
    characters. 
 7. Student # is a number represented as a 9-character string in the following format: 
