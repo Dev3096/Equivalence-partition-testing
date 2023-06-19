@@ -46,6 +46,7 @@ From the identified input conditions list equivalence valid and invalid sub-doma
 (classes). Based on the identified sub-domains design test cases using: 
 
 a. Strong normal equivalence testing, 
+
 b. Weak robust equivalence testing 
 
 Hint: Before designing test cases, identify related/unrelated input conditions. 
