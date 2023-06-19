@@ -29,6 +29,7 @@ Project Assumptions:
    AXXXXXXXX, where X is a digit. 
 
 Sample test case for the Grader component: 
+
 Test #1: Last name=Smith, First name=John, Student #=A11112222, Exam-1=57, Exam-2 = 64, Project = 75 
 
 PROBLEM #1 : Equivalence partition testing 
